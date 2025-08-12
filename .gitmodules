@@ -1,0 +1,6 @@
+[submodule "backend-roadmap-ai"]
+	path = backend-roadmap-ai
+	url = https://github.com/nickken253/ai-backend-roadmap
+[submodule "frontend-roadmap-ai"]
+	path = frontend-roadmap-ai
+	url = https://github.com/nickken253/ai-frontend-roadmap
